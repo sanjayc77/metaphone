@@ -2,6 +2,7 @@ Metaphone package for Go
 ======================
 
 A port of `metaphone` module from the Natural javascript package: <https://github.com/NaturalNode/natural/blob/master/lib/natural/phonetics/metaphone.js>
+
 Also see the wikipedia article on metaphone: <http://en.wikipedia.org/wiki/Metaphone>
 
 Installation

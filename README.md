@@ -23,3 +23,7 @@ Tests
 -----
 
     go test metaphone
+
+TODO
+----
+Precompile the regular expressions for faster processing.
